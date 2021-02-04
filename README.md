@@ -34,11 +34,12 @@ facilitando muito o seu aprendizado em qualquer linguagem web.
 Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
 são **extremamente apreciadas**
 
-1. Realize um Fork do projeto
-2. Crie um branch com a nova feature (`git checkout -b feature/featureBraba`)
-3. Realize o Commit (`git commit -m 'Adicionado conteudo brabo'`)
-4. Realize o Push no Branch (`git push origin feature/featureBraba`)
-5. Abra um Pull Request
+1. Veja a ['issue principal'](https://github.com/NicolasPereira/web4noobs/issues/1) para entender a nossa ideia!
+2. Realize um Fork do projeto
+3. Crie um branch com a nova feature (`git checkout -b feature/featureBraba`)
+4. Realize o Commit (`git commit -m 'Adicionado conteudo brabo'`)
+5. Realize o Push no Branch (`git push origin feature/featureBraba`)
+6. Abra um Pull Request
 
 ## Autores
 
