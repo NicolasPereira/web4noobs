@@ -15,7 +15,7 @@ facilitando muito o seu aprendizado em qualquer linguagem web.
 
 ## ROADMAP
 
-- [O que é a internet - Em Construção](link-primeira-parte)
+- [O que é a internet](./internet.md)
   - [Como a internet funciona - Em Construção](link-segunda-parte)
 - [O que é HTTP - Em Construção](link-terceira-parte)
 - [Navegadores, como que eles funcionam - Em Construção](link-quarta-parte)
